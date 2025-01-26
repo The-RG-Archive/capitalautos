@@ -1,4 +1,4 @@
-# capitalautos
+# CapitalAutos Website
 A archive of the capitalautos website hosted on  http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/
 
 Thanks to the [GTA Wiki](https://gta.fandom.com/wiki/Main_Page) for helping find all files.
