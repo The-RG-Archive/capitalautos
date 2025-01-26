@@ -7,4 +7,4 @@ Thanks to the [GTA Wiki](https://gta.fandom.com/wiki/Main_Page) for helping find
 
 ## About this website
 It contained pictures off beta GTA III cars and you could click on them to view them 
-The website had a lot off unused pictures in the files that we could pull by changeing the url i archived most off them if not all here.
+The website had a lot off unused pictures in the files that we could pull by changeing the url i archived all of them here.
